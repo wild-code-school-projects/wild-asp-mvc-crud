@@ -17,3 +17,5 @@ Validation Criteria
     The Article entity exists and includes the three fields defined in the challenge.
     An ArticleController defines all the methods for a CRUD.
     A view allows interaction with the CRUD through a web interface.
+
+![image](https://image.noelshack.com/fichiers/2024/21/2/1716292149-screenshot-2024-05-21-134848.png)
